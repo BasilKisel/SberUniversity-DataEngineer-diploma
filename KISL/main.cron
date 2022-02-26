@@ -1,0 +1,1 @@
+51 1 * * * /home/de1m/kisl/main.py >> /home/de1m/kisl/archive/bank_etl.log

@@ -1,0 +1,1 @@
+truncate table DE1M.KISL_STG_TERM_ACTIVE_REC

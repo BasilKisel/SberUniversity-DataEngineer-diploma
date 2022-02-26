@@ -1,0 +1,1 @@
+select ACCOUNT from BANK.ACCOUNTS

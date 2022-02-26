@@ -1,0 +1,3 @@
+insert into DE1M.KISL_STG_TERM
+    (TERMINAL_ID, TERMINAL_TYPE, TERMINAL_CITY, TERMINAL_ADDRESS)
+values (?, ?, ?, ?)

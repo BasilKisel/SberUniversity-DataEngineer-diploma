@@ -1,0 +1,1 @@
+insert into DE1M.KISL_STG_CLIENT_ACTIVE_REC (CLIENT_ID) values (?)
